@@ -1,0 +1,44 @@
+.Do lab
+...Learn how to use openlayers
+......read basic tutorials & get a sense of the vocabulary
+......try to find examples that are similar to what I'm doing
+......Emulate the Synthetic Points example of openlayers
+......Plan out data types
+......Get coordinates, strength, time
+
+...Do advanced parts of the lab
+......Show an animation for earthquake points
+......Check out the animation functions of OpenLayers
+......Have the size of each dot correspond to the strength of the earthquake
+......Have the opacity of each dot correspond to how old the earthquake event is
+
+
+> Do Lab 
+99   |170630.... >Work on Lab
+_99              ___ Learn how to use openlayers
+__99              ______ Read basic tutorials and get a sense of the vocabulary
+_99              _____ Try to find examples that are similar to what I'm doing
+                 _____ Emulate the Synthetic Points example of openlayers
+12   |17062814xx _____ Plan out data types
+07   |1706281408 _____ Get coordinates, strength, and time
+
+___ Do advanced part of the lab
+______ Show an animation for earthquake points
+______ Check out the animation functions of openlayers
+______ Have the size of each dot correspond to the strength of the earthquake
+______ Have the opacity of each dot correspond to how old the earthquake event is
+
+
+
+
+Score|Due Date
+---------------
+99   |170630xxxx > Work on lab
+_99               Try to figure out the output design
+_99
+
+12   |17062814xx
+07   |1706281408 ......
+
+
+

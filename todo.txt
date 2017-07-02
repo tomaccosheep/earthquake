@@ -1,0 +1,15 @@
+.Do lab
+...Learn how to use openlayers
+......read basic tutorials and get a sense of the vocabulary
+......try to find examples that are similar to what I'm doing
+......emulate the synthetic points example of openlayers
+......figure out how to convert coordinates
+......Get coordinates, strength, and time
+
+
+
+...do advanced parts of the lab
+......show an animation for earthquake points
+......check out the animation functions of openlayers
+......have the size of each dot correspond to the strength of the earthquake
+......Have the opacity correlate to how old it is
